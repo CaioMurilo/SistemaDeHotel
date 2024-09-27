@@ -22,13 +22,3 @@ e o tipo de quarto reservado;
 funcionalidades existentes; 
 5. Implemente métodos para reserva e cálculo do custo da estadia, garantindo que os 
 detalhes específicos de cada tipo de quarto estejam encapsulados.
- 
-Aviso Importante:
-
-A prova é individual e NÃO será permitido o uso de ferramentas de Inteligência Artificial 
-para gerar o código. A abstração e a resolução dos problemas devem ser realizadas 
-exclusivamente pelo estudante, aplicando corretamente os conceitos de Herança, 
-Polimorfismo e Encapsulamento. 
-Esta avaliação valerá 2,5 pontos e comporá a nota da N1. Após o desenvolvimento do 
-projeto, a pasta contendo todo o código deve ser compactada e enviada no AVA até, no 
-máximo, 11:30.
